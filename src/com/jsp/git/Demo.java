@@ -7,5 +7,6 @@ public class Demo
 	  //hello
 	  //changes made in  thusar 
 	  //feature is added by me
+	  int i =10;
 }
 }
